@@ -1,0 +1,35 @@
+{
+      "deviceID": 1,
+      "deviceName": "DHT11",
+      "deviceType": "fishTank",
+      "measureType": [
+            "pH",
+            "Temperature",
+            "Humidity",
+            "Lighting",
+            "Proximity",
+            "WaterLevel"
+      ],
+      "measurements": {
+            "pH": 0,
+            "Temperature": 0,
+            "Humidity": 0,
+            "Lighting": 0,
+            "Proximity": 0,
+            "WaterLevel": 0
+      },
+      "fishAttributes": {
+            "fishAverageSizeInGramms": "50",
+            "fishAmount": "4",
+            "preferredWater": "sweet",
+            "foodType": "plant"
+      },
+      "alarms": {
+            "pH": 0,
+            "Temperature": 0,
+            "Humidity": 0,
+            "Lighting": 0,
+            "Proximity": 0,
+            "WaterLevel": 0
+      }
+}
